@@ -30,4 +30,4 @@ The mod no longer requires a custom mode: it can be enabled in a regular game an
 
 **Dependencies:**
 
-- ModSettings
+- [ModSettings](https://github.com/DigitalzombieTLD/ModSettings/releases/tag/v2.2.5)
