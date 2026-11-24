@@ -2,6 +2,7 @@
 
 # Solstice Reborn
 _original mod by WulfMarius_
+
 _updated by Starbuck097_
 
 An updated version of the old WulfMarius mod for The Long Dark, which adds a change of seasons to the game. The daylight hours gradually lengthen from the winter solstice to the summer solstice and shorten again; along with the length of the day, the illumination and temperature change.
