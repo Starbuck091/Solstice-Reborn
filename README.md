@@ -9,6 +9,8 @@ An updated version of the old WulfMarius mod for The Long Dark, which adds a cha
 
 The mod no longer requires a custom mode: it can be enabled in a regular game and in an already started save. The settings are located in the Mod Settings menu and are saved between launches.
 
+**In order for the mod to work, it is not necessary to start a new game. You can also use it in old saves. **
+
 **Feautures:**
 
 - The length of the day. The light day is the shortest in winter, the longest in summer. The transition is smooth, without sudden jumps.
