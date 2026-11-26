@@ -31,6 +31,8 @@ The mod no longer requires a custom mode: it can be enabled in a regular game an
 
 - "Winter wildlife die-off" setting. When it is turned on, the number of animals varies depending on the season. In late autumn, the population of all species decreases, there is practically no spawn in winter, and animals return by spring. I thought this was a very good concept, since in many polar or circumpolar regions there are practically no animals to be found in winter, with rare exceptions. The setting is recommended for players who love hardcore survival. 
 
+- Combining with the mechanics of the Extreme Temperature Drops mod. Previously, these two mods were incompatible, but now ETD settings have been added to Solstice Reborn settings, which will allow you to fine-tune the gradual cooling in the world.
+
 **Dependencies:**
 
 - [ModSettings](https://github.com/DigitalzombieTLD/ModSettings/releases/tag/v2.2.5)
