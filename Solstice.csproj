@@ -6,8 +6,8 @@
 		<RootNamespace>Solstice</RootNamespace>
 		<LangVersion>default</LangVersion>
 		<IsPackable>false</IsPackable>
-		<AssemblyVersion>3.2.0.0</AssemblyVersion>
-		<FileVersion>3.2.0.0</FileVersion>
+		<AssemblyVersion>3.2.1.0</AssemblyVersion>
+		<FileVersion>3.2.1.0</FileVersion>
 		<NeutralLanguage>en-US</NeutralLanguage>
 		<AssemblyName>Solstice</AssemblyName>
 		<LangVersion>latest</LangVersion>
